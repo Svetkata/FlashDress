@@ -31,6 +31,12 @@ body {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+  
+  } 
+  .logo{
+    float: left;
+    display: flex;
+    align-items: center;
   }
   
   
@@ -42,7 +48,13 @@ body {
     background-color: #333
     ;
   }
-
+.about{
+  background-color: white;
+  width: 70vw;
+  height: 100vh;
+  margin: auto;
+  text-align: center;
+}
 
 
   
