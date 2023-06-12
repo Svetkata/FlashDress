@@ -1,7 +1,7 @@
 
 body {
   height: 100vh;
-    background-image: url('images/cloud3.jpg');
+    background-image: url('images/homepage\ background.jpeg');
     background-position: center;
     background-size: cover;
     @font-face{
@@ -49,11 +49,15 @@ body {
     ;
   }
 .about{
-  background-color: white;
+  background-color: #333;
   width: 70vw;
   height: 100vh;
   margin: auto;
   text-align: center;
+  color: white;
+  border-width: 10px;
+  border-color: #eabd0a;
+  border-style: solid;
 }
 
 
